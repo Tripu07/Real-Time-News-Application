@@ -54,4 +54,4 @@ class NewsAdapter (private val list:List<Article>,private val context: Context )
         }
 
     }
-
+}
